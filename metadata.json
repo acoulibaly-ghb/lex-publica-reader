@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Reader",
+  "description": "An elegant book reader for PDF and EPUB files with built-in AI-powered Text-to-Speech using Gemini.",
+  "requestFramePermissions": []
+}
